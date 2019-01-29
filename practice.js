@@ -19,7 +19,7 @@ var me = {
   name:"Steve",
   age:28
 }
-//alert(me.name)
+alert(me.name)
 
 
 ////////// PROBLEM 2 //////////
@@ -79,7 +79,7 @@ backPack.color = "black"
 */
 
 //Code here
-//alert(backPack);
+alert(backPack);
 
 
 /*
@@ -154,7 +154,7 @@ methodCollection.logHello = function(){console.log('hello')}
 */
 
 //Code Here
-//methodCollection.alertHello()
+methodCollection.alertHello()
 methodCollection.logHello()
 
 ////////// PROBLEM 6 //////////
